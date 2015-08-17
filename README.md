@@ -1,4 +1,4 @@
-# Cordova application for playing with BLE
+# Cordova application template
 
 ## Requirements
 
